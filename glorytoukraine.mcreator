@@ -159,6 +159,22 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "borsch_food_item_recipe"
+    },
+    {
+      "name": "RussianZombieEntity",
+      "type": "livingentity",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "russian_zombie_entity"
+    },
+    {
+      "name": "CossackSaberWeaponItem",
+      "type": "tool",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cossack_saber_weapon_item"
     }
   ],
   "variable_elements": [],
@@ -166,6 +182,7 @@
   "language_map": {
     "ru_ru": {
       "item.glorytoukraine:salo.name": "Сало",
+      "item.glorytoukraine:cossack_saber_weapon_item.name": "Cossack Saber",
       "item.glorytoukraine:cossack_knife.name": "Козацкий Нож",
       "item.glorytoukraine:cracklings.name": "Шкварки",
       "item.glorytoukraine:fried_salo.name": "Жареное Сало",
@@ -173,10 +190,12 @@
       "tile.glorytoukraine:ukraine.name": "Украинский Шерстяной Флаг",
       "item.glorytoukraine:copper_nugget.name": "Медный Самородок",
       "item.glorytoukraine:borsch_food_item.name": "Borsch Food Item",
+      "item.spawn_egg.entity.glorytoukraine:russian_zombie_entity.name": "Russian Zombie Entity Spawn Egg",
       "tile.glorytoukraine:uia_wool_flag.name": "Шерстяной Флаг УПА"
     },
     "en_us": {
       "item.glorytoukraine:salo.name": "Salo",
+      "item.glorytoukraine:cossack_saber_weapon_item.name": "Cossack Saber",
       "item.glorytoukraine:cossack_knife.name": "Cossack Knife",
       "item.glorytoukraine:cracklings.name": "Cracklings",
       "item.glorytoukraine:fried_salo.name": "Fried Salo",
@@ -184,10 +203,12 @@
       "tile.glorytoukraine:ukraine.name": "Ukraine Wool Flag",
       "item.glorytoukraine:copper_nugget.name": "Copper Nugget",
       "item.glorytoukraine:borsch_food_item.name": "Borsch",
+      "item.spawn_egg.entity.glorytoukraine:russian_zombie_entity.name": "Russian Zombie Gopnik Spawn Egg",
       "tile.glorytoukraine:uia_wool_flag.name": "UIA Wool Flag"
     },
     "uk_ua": {
       "item.glorytoukraine:salo.name": "Сало",
+      "item.glorytoukraine:cossack_saber_weapon_item.name": "Cossack Saber",
       "item.glorytoukraine:cossack_knife.name": "Козацький Ніж",
       "item.glorytoukraine:cracklings.name": "Шкварки",
       "item.glorytoukraine:fried_salo.name": "Смажене Сало",
@@ -195,6 +216,7 @@
       "tile.glorytoukraine:ukraine.name": "Український Вовняний Прапор",
       "item.glorytoukraine:copper_nugget.name": "Мідний самородок",
       "item.glorytoukraine:borsch_food_item.name": "Borsch Food Item",
+      "item.spawn_egg.entity.glorytoukraine:russian_zombie_entity.name": "Russian Zombie Entity Spawn Egg",
       "tile.glorytoukraine:uia_wool_flag.name": "Вовняний Прапор УПА"
     }
   },

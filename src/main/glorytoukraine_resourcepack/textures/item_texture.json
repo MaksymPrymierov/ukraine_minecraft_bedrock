@@ -14,6 +14,9 @@
     "cracklings": {
       "textures": "textures/items/cracklings"
     },
+    "cossack_saber_weapon_item": {
+      "textures": "textures/items/cossck_saber_weapon_item"
+    },
     "borsch_food_item": {
       "textures": "textures/items/borsch_food_item"
     },

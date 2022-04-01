@@ -1,0 +1,15 @@
+{
+  "format_version": "1.12",
+  "minecraft:item": {
+    "description": {
+      "identifier": "glorytoukraine:cossack_saber_weapon_item",
+      "category": "Equipment",
+      "register_to_creative_menu": true
+    },
+    "components": {
+      "minecraft:icon": "cossack_saber_weapon_item",
+      "minecraft:render_offsets": "tools",
+      "minecraft:creative_category": "Equipment"
+    }
+  }
+}
