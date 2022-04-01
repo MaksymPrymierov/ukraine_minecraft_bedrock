@@ -1,0 +1,24 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "copper_nugget": {
+      "textures": "textures/items/copper_nugget"
+    },
+    "salo": {
+      "textures": "textures/items/salo_item"
+    },
+    "fried_salo": {
+      "textures": "textures/items/fried_salo"
+    },
+    "cracklings": {
+      "textures": "textures/items/cracklings"
+    },
+    "cossack_knife": {
+      "textures": "textures/items/cossack_small_knife"
+    },
+    "cossack_dagger_1": {
+      "textures": "textures/items/cossack_dagger"
+    }
+  }
+}

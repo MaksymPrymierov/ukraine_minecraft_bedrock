@@ -1,0 +1,20 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "glorytoukraine:sracklings"
+    },
+    "groups": [
+      "ukraine"
+    ],
+    "tags": [
+      "furnace"
+    ],
+    "input": {
+      "item": "glorytoukraine:fried_salo"
+    },
+    "output": {
+      "item": "glorytoukraine:cracklings"
+    }
+  }
+}

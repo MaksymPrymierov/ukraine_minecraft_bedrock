@@ -1,0 +1,38 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.terrain",
+  "padding": 8,
+  "num_mip_levels": 0,
+  "texture_data": {
+    "glorytoukraine_ukraine_up": {
+      "textures": [
+        "textures/blocks/ukraine_wool_top"
+      ]
+    },
+    "glorytoukraine_ukraine_down": {
+      "textures": [
+        "textures/blocks/ukraine_wool_bottom"
+      ]
+    },
+    "glorytoukraine_ukraine_south": {
+      "textures": [
+        "textures/blocks/ukraine_wool_block"
+      ]
+    },
+    "glorytoukraine_ukraine_north": {
+      "textures": [
+        "textures/blocks/ukraine_wool_block"
+      ]
+    },
+    "glorytoukraine_ukraine_west": {
+      "textures": [
+        "textures/blocks/ukraine_wool_block"
+      ]
+    },
+    "glorytoukraine_ukraine_east": {
+      "textures": [
+        "textures/blocks/ukraine_wool_block"
+      ]
+    }
+  }
+}

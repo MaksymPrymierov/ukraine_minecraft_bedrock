@@ -1,0 +1,83 @@
+{
+  "mod_elements": [
+    {
+      "name": "Ukraine",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ukraine"
+    },
+    {
+      "name": "CustomUkraineBlock",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_ukraine_block"
+    },
+    {
+      "name": "Salo",
+      "type": "food",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "salo"
+    },
+    {
+      "name": "CustomSaloItem",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_salo_item"
+    },
+    {
+      "name": "FriedSalo",
+      "type": "food",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fried_salo"
+    },
+    {
+      "name": "CustomFriedSalo",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_fried_salo"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.glorytoukraine:salo.name": "Salo",
+      "item.glorytoukraine:fried_salo.name": "Fried Salo",
+      "tile.glorytoukraine:ukraine.name": "Ukraine"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "glorytoukraine",
+    "modName": "GloryToUkraine",
+    "version": "1.0.0",
+    "author": "prime, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "addon-1.17.x",
+    "modElementsPackage": "net.mcreator.glorytoukraine",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100354000
+}

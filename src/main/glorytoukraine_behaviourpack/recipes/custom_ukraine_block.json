@@ -1,0 +1,40 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "glorytoukraine:custom_ukraine_block"
+    },
+    "groups": [
+      "ukraine"
+    ],
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "01",
+      "23"
+    ],
+    "key": {
+      "0": {
+        "item": "minecraft:wool",
+        "data": 11
+      },
+      "1": {
+        "item": "minecraft:wool",
+        "data": 11
+      },
+      "2": {
+        "item": "minecraft:wool",
+        "data": 4
+      },
+      "3": {
+        "item": "minecraft:wool",
+        "data": 4
+      }
+    },
+    "result": {
+      "item": "glorytoukraine:ukraine",
+      "count": 4
+    }
+  }
+}

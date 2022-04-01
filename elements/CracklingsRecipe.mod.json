@@ -1,0 +1,20 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Campfire cooking",
+    "xpReward": 1.0,
+    "cookingTime": 100,
+    "recipeRetstackSize": 1,
+    "group": "ukraine",
+    "recipeShapeless": false,
+    "campfireCookingInputStack": {
+      "value": "CUSTOM:Salo"
+    },
+    "campfireCookingReturnStack": {
+      "value": "CUSTOM:Cracklings"
+    },
+    "name": "cracklings_recipe",
+    "namespace": "mod"
+  }
+}

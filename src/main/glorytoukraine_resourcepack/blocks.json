@@ -1,0 +1,14 @@
+{
+  "format_version": "1.16.100",
+  "glorytoukraine:ukraine": {
+    "textures": {
+      "up": "glorytoukraine_ukraine_up",
+      "down": "glorytoukraine_ukraine_down",
+      "south": "glorytoukraine_ukraine_south",
+      "north": "glorytoukraine_ukraine_north",
+      "west": "glorytoukraine_ukraine_west",
+      "east": "glorytoukraine_ukraine_east"
+    },
+    "sound": "cloth"
+  }
+}

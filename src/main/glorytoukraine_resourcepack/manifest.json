@@ -1,0 +1,36 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "",
+    "name": "GloryToUkraine",
+    "uuid": "9022de2d-bac9-3d75-906b-7f3e6ab9dafe",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      17,
+      3
+    ]
+  },
+  "modules": [
+    {
+      "description": "",
+      "type": "resources",
+      "uuid": "8235ec3c-1607-3383-806d-101be2b65a92",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "prime, MCreator"
+    ],
+    "url": "https://mcreator.net"
+  }
+}

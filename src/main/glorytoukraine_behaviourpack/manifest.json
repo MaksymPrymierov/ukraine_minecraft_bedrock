@@ -1,0 +1,46 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "",
+    "name": "GloryToUkraine",
+    "uuid": "b910bb65-714a-3721-8cc1-670fc1402f6f",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      17,
+      3
+    ]
+  },
+  "modules": [
+    {
+      "description": "",
+      "type": "data",
+      "uuid": "9fd6b5c5-5971-3bce-9286-2741d0d3e037",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "9022de2d-bac9-3d75-906b-7f3e6ab9dafe",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "prime, MCreator"
+    ],
+    "url": "https://mcreator.net"
+  }
+}

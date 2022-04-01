@@ -1,0 +1,23 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "glorytoukraine:copper_nugget_recipe"
+    },
+    "groups": [
+      "ukraine"
+    ],
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:copper_ingot"
+      }
+    ],
+    "result": {
+      "item": "glorytoukraine:copper_nugget",
+      "count": 9
+    }
+  }
+}

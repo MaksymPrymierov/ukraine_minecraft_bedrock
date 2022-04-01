@@ -1,0 +1,20 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "glorytoukraine:cracklings_recipe"
+    },
+    "groups": [
+      "ukraine"
+    ],
+    "tags": [
+      "campfire"
+    ],
+    "input": {
+      "item": "glorytoukraine:salo"
+    },
+    "output": {
+      "item": "glorytoukraine:cracklings"
+    }
+  }
+}
