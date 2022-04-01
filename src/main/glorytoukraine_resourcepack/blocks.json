@@ -10,5 +10,16 @@
       "east": "glorytoukraine_ukraine_east"
     },
     "sound": "cloth"
+  },
+  "glorytoukraine:uia_wool_flag": {
+    "textures": {
+      "up": "glorytoukraine_uia_wool_flag_up",
+      "down": "glorytoukraine_uia_wool_flag_down",
+      "south": "glorytoukraine_uia_wool_flag_south",
+      "north": "glorytoukraine_uia_wool_flag_north",
+      "west": "glorytoukraine_uia_wool_flag_west",
+      "east": "glorytoukraine_uia_wool_flag_east"
+    },
+    "sound": "snow"
   }
 }

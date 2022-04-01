@@ -33,6 +33,36 @@
       "textures": [
         "textures/blocks/ukraine_wool_block"
       ]
+    },
+    "glorytoukraine_uia_wool_flag_up": {
+      "textures": [
+        "textures/blocks/uia_wool_flag_block_top"
+      ]
+    },
+    "glorytoukraine_uia_wool_flag_down": {
+      "textures": [
+        "textures/blocks/uia_wool_flag_block_bottom"
+      ]
+    },
+    "glorytoukraine_uia_wool_flag_south": {
+      "textures": [
+        "textures/blocks/uia_wool_flag_block"
+      ]
+    },
+    "glorytoukraine_uia_wool_flag_north": {
+      "textures": [
+        "textures/blocks/uia_wool_flag_block"
+      ]
+    },
+    "glorytoukraine_uia_wool_flag_west": {
+      "textures": [
+        "textures/blocks/uia_wool_flag_block"
+      ]
+    },
+    "glorytoukraine_uia_wool_flag_east": {
+      "textures": [
+        "textures/blocks/uia_wool_flag_block"
+      ]
     }
   }
 }

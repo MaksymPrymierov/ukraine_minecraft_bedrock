@@ -1,0 +1,21 @@
+{
+  "format_version": "1.17.3",
+  "minecraft:block": {
+    "description": {
+      "identifier": "glorytoukraine:uia_wool_flag",
+      "is_experimental": false,
+      "register_to_creative_menu ": true
+    },
+    "components": {
+      "minecraft:map_color": "#191919",
+      "minecraft:block_light_emission": 0,
+      "minecraft:destroy_time": 1.2,
+      "minecraft:explosion_resistance": 1,
+      "minecraft:friction": 0.7999999999999999,
+      "minecraft:flammable": {
+        "flame_odds": 0,
+        "burn_odds": 0
+      }
+    }
+  }
+}
