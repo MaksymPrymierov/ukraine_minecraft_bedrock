@@ -175,6 +175,14 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "cossack_saber_weapon_item"
+    },
+    {
+      "name": "CossackSaberWeaponItemRecipe",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cossack_saber_weapon_item_recipe"
     }
   ],
   "variable_elements": [],
