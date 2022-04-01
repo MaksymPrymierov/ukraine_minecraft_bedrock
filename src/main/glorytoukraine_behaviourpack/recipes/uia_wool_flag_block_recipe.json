@@ -1,0 +1,40 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "glorytoukraine:uia_wool_flag_block_recipe"
+    },
+    "groups": [
+      "ukraine"
+    ],
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "01",
+      "23"
+    ],
+    "key": {
+      "0": {
+        "item": "minecraft:wool",
+        "data": 15
+      },
+      "1": {
+        "item": "minecraft:wool",
+        "data": 15
+      },
+      "2": {
+        "item": "minecraft:wool",
+        "data": 14
+      },
+      "3": {
+        "item": "minecraft:wool",
+        "data": 14
+      }
+    },
+    "result": {
+      "item": "glorytoukraine:uia_wool_flag",
+      "count": 4
+    }
+  }
+}
